@@ -1,4 +1,5 @@
 # Xubuntu config
 fish 
 terminalrc
-omf
+omfa
+omffetaure3
