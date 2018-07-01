@@ -1,5 +1,5 @@
 # Xubuntu config
 fish 
 terminalrc
-omfa
-omffetaure3
+
+feature2
